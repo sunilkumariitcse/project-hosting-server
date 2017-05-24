@@ -1,6 +1,6 @@
 ## Programming Club Server Performance Report 
 
-# Shikhar Gupta, Tapesh Joham, Mandala Rishik Reddy, Sunil Kumar
+#  Sunil Kumar AND TEAM
 
      15th May 2017
      
